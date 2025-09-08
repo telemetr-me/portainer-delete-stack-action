@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bots-house/portainer-delete-stack-action.git"
+    "url": "git+https://github.com/telemetr-me/portainer-delete-stack-action.git"
   },
   "keywords": [
     "actions",
